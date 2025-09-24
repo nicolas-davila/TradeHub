@@ -13,6 +13,7 @@
     <?php
         // Inclui o HTML da view
         include __DIR__ . "/../app/views/tela_inicial.php";
+    // O '__DIR__ .' serve para dizer que vai importar o que estiver dentro do arquivo mencionado.
     ?>
 
 </body>
